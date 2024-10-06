@@ -19,7 +19,7 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE)
 
 ## Contacto
 
-Si deseas ponerte en contacto, puedes encontrarme en [GitHub](https://github.com/jamesmdpro) o enviarme un correo a [tu_email@example.com](mailto:tu_email@example.com).
+Si deseas ponerte en contacto, puedes encontrarme en [GitHub](https://github.com/jamesmdpro) o enviarme un correo a [tu_email@example.com](jamesmdpro@gmail.com).
 
 ---
 
